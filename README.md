@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alireza-nemati
+- 👋 Hi, I’m Alireza Nemati
 - 👀 I’m interested in Php
 - 🌱 I’m currently learning Php,Laravel
 
